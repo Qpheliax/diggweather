@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/diggweather/static/css/main.62afab90.chunk.css",
+    "main.js": "/diggweather/static/js/main.c554da9c.chunk.js",
+    "main.js.map": "/diggweather/static/js/main.c554da9c.chunk.js.map",
+    "runtime-main.js": "/diggweather/static/js/runtime-main.585bf27a.js",
+    "runtime-main.js.map": "/diggweather/static/js/runtime-main.585bf27a.js.map",
+    "static/js/2.0d72421e.chunk.js": "/diggweather/static/js/2.0d72421e.chunk.js",
+    "static/js/2.0d72421e.chunk.js.map": "/diggweather/static/js/2.0d72421e.chunk.js.map",
+    "static/js/3.db4b0b64.chunk.js": "/diggweather/static/js/3.db4b0b64.chunk.js",
+    "static/js/3.db4b0b64.chunk.js.map": "/diggweather/static/js/3.db4b0b64.chunk.js.map",
+    "index.html": "/diggweather/index.html",
+    "static/css/main.62afab90.chunk.css.map": "/diggweather/static/css/main.62afab90.chunk.css.map",
+    "static/js/2.0d72421e.chunk.js.LICENSE.txt": "/diggweather/static/js/2.0d72421e.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/diggweather/static/media/background.fcf4072c.svg",
+    "static/media/logoW.e547045e.svg": "/diggweather/static/media/logoW.e547045e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.585bf27a.js",
+    "static/js/2.0d72421e.chunk.js",
+    "static/css/main.62afab90.chunk.css",
+    "static/js/main.c554da9c.chunk.js"
+  ]
+}
