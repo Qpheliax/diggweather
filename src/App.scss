@@ -107,7 +107,7 @@ header {
     text-shadow: rgb(0, 0, 0) 2px 2px 2px;
   }
 
-  img {
+  #logo {
     margin-right: -1.3em;
     padding: 0.7em 0 0.5em 7em;
     width: 105px;
@@ -228,6 +228,15 @@ main {
           }
           .temp .c {
             font-size: 3em;
+          }
+
+          .weatherIcon {
+            #Layer_1 {
+              width:100px;
+              height:100px;
+              padding:10px;
+              color: $color-black;
+            }
           }
 
           .wi-hu {
@@ -368,6 +377,13 @@ footer {
             }
           }
           .options {
+            .weatherIcon {
+              #Layer_1 {
+                width:60px;
+                height:60px;
+                padding:5px;
+              }
+            }
             .wi-hu {
               span {
                 font-size: 1.5em;

@@ -1,5 +1,5 @@
 import React from "react";
-import Forecast from "./location";
+import Forecast from "../functions/location";
 
 const Weather = () => {
   return (
